@@ -1,6 +1,6 @@
 
-## CSCW2020 Submission | Paper #9746
-### Anonymous Repository
+## Vartalaap: What Drives #AirQuality Discussions: Politics, Pollution or Pseudo-science?
+### CSCW 2021
 This repository contains codes to reproduce the figures and results. Each folder represents a section in the paper. 
 
 - **Dataset**: Represents **Section 3** of the paper. We are making the dataset public 
