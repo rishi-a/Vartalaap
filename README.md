@@ -1,6 +1,7 @@
 
 ## Vartalaap: What Drives #AirQuality Discussions: Politics, Pollution or Pseudo-science?
-### CSCW 2021
+**Paper Preprint available [here](https://rishi-a.github.io/downloads/publications/vartalaap.pdf)**. To appear in the The 24th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW).
+<hr>
 This repository contains codes to reproduce the figures and results. Each folder represents a section in the paper. 
 
 - **Dataset**: Represents **Section 3** of the paper. We are making the dataset public 
