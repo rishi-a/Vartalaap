@@ -1,4 +1,5 @@
 
+
 ## Vartalaap: What Drives #AirQuality Discussions: Politics, Pollution or Pseudo-science?
 **Paper: https://dl.acm.org/doi/abs/10.1145/3449170 . To appear in the The 24th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW).
 <hr>
@@ -21,4 +22,16 @@ This repository contains codes to reproduce the figures and results. Each folder
 - **Research-Question-3**: Represents **Section 5.4 (Power Law)** of the paper.
 	- `figure-17-power-tail.ipynb`: Code to generate Figure 17. 
 
-
+- For citation purposes, please use the following Bib.
+`
+@article{adhikary2021vartalaap,
+  title={Vartalaap: what drives\# airquality discussions: politics, pollution or pseudo-science?},
+  author={Adhikary, Rishiraj and Patel, Zeel B and Srivastava, Tanmay and Batra, Nipun and Singh, Mayank and Bhatia, Udit and Guttikunda, Sarath},
+  journal={Proceedings of the ACM on Human-Computer Interaction},
+  volume={5},
+  number={CSCW1},
+  pages={1--29},
+  year={2021},
+  publisher={ACM New York, NY, USA}
+}
+`
